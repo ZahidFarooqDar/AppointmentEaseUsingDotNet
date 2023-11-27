@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "baWGT5OcD7CJuOMBYnDsRdf5vBOXFjIGcs8nlSCcAgo=",
+  "Source": "AppointmentEaseAPI",
+  "BasePath": "_content/AppointmentEaseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
